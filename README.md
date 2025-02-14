@@ -4,11 +4,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monzaimon&show_icons=true&theme=radical)
 
-### Technologies that I have experience with. 👨🏻‍🏫
+### Technologies that I have experience with. 👨🏻‍🏫<br/><br/>
 
-My best skill is in back-end development.
-I have experience in API development.
-I work well with object-oriented programming, which is why I prefer Java and C++.
+My best skill is in back-end development.<br/>
+I have experience in API development.<br/>
+I work well with object-oriented programming, which is why I prefer Java and C++.<br/>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
