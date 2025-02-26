@@ -20,6 +20,6 @@ I work well with object-oriented programming, which is why I prefer Java and C++
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-Every day learning a little more to conquer the WORLD!!
+Every day learning a little more!!
 
 Student at IFSUL in the Bachelor's program in Internet Systems Technology.
